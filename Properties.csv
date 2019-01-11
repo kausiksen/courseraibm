@@ -1,0 +1,510 @@
+"","PropertyID","ShortCalCode","LongCalCode","description","Sort"
+"1",1,"ANIL","ANILINE","Aniline-Point",127
+"2",2,"AROM","AROMATICS","Aromatics-Vol",94
+"3",3,"FRZ ","FREEZE","Freeze-Point",119
+"4",4,"API ","GRAVITY","API-Gravity",7
+"5",5,"NAPH","NAPHTHENES","Naphthenes-Vol",93
+"6",6,"N2  ","NITROGEN","Nitrogen",15
+"7",7,"PARA","PARAFFINS","Paraffins-(Total)-Vol",90
+"8",8,"POUR","POUR","Pour-Point",122
+"9",9,"SMOK","SMOKE","Smoke-Point-(ASTM)",126
+"10",10,"SUL ","SULFUR","Sulfur",13
+"11",11,"V122","VIS122","Viscosity-@122-F-(-50-C)",142
+"12",12,"V212","VIS212","Viscosity-@212-F-(100-C)",149
+"13",13,"VOL ","YIELD","Cut-Yield-(Vol%)",3
+"14",14,"T10 ",NA,"VL%-TBP---10%",21
+"15",15,"T50 ",NA,"VL%-TBP---50%",24
+"16",16,"T90 ",NA,"VL%-TBP---90%",27
+"17",17,"CI  ","CETANE I","Cetane-Index",129
+"18",18,"RAMS","RAMSBOTTOM C","Ramsbottom-Carbon",157
+"19",19,"ASPH","ASPHALTENES","Asphaltenes",96
+"20",20,"SINA","S IN ASPH","Sulfur-in-Asphaltenes",160
+"21",21,"SG  ","SG","Specific-Gravity-(@60F)",8
+"22",22,"RONC","OCTF-1","Research-Octane-clear",71
+"23",23,"RONL","OCTF-1-PB","RON-@.xx-g-PB/L-(no-SULF)",72
+"24",24,"CET ","CETANE N","Cetane-Number",70
+"25",25,"MONC","OCTF-2","Motor-Octane-clear",76
+"26",26,"MONL","OCTF-2-PB","MON-@.xx-g-PB/L-(no-SULF)",77
+"27",27,"CFPP","CFPP","Cold-Filter-Plugging-Point",123
+"28",28,"MERC","MERCAPTAN S","Mercaptan-Sulfur",14
+"29",29,"NEUT","NEUT","Neut-or-TAN-No.",128
+"30",30,"FE  ","FE","Iron",166
+"31",31,"V   ","V","Vanadium",167
+"32",32,"NI  ","NI","Nickel",168
+"33",33,"KFAC","K FACTOR","K-Factor",10
+"34",34,"DI  ","DIESEL I","Diesel-Index",131
+"35",35,"SYLV",NA,"Cut-Start-Yield-(Vol%)",1
+"36",36,"EYLV",NA,"Cut-End-Yield-(Vol%)",2
+"37",37,"HHV ","GROSS HT VAL","Gross-Heating-Value",114
+"38",38,"RVP ","RVP","Reid-Vapor-Pressure",81
+"39",39,"TIP ",NA,"VL%-TBP---Initial-Boiling-Pt",19
+"40",40,"T30 ",NA,"VL%-TBP---30%",23
+"41",41,"T70 ",NA,"VL%-TBP---70%",25
+"42",42,"TEP ",NA,"VL%-TBP---End-Boiling-Pt",29
+"43",43,"CLD ","CLOUD PT","Cloud-Point",120
+"44",44,"THPH","THIOPHENES","Thiophenes",87
+"45",45,"LUM ","LUMINOMETER","Luminometer-Number",83
+"46",46,"T05 ",NA,"VL%-TBP---5%",20
+"47",47,"T95 ",NA,"VL%-TBP---95%",28
+"48",48,"N2B ","BASIC N2","Basic-Nitrogen",16
+"49",49,"H2  ","HYDROGEN","Hydrogen",17
+"50",50,"PEN","PENETRATION","Penetration",125
+"51",51,"SINR","S IN RAMS C","Sulfur-in-Ramsbottom-Carbon",161
+"52",52,"V275","VIS275","Viscosity-@275-F-(135-C)",150
+"53",53,"RI80","REFRACTIVE I","Refractive-Index-@-80deg-C",136
+"54",54,"WT  ",NA,"Cut-Yield-(Wgt%)",6
+"55",55,"SYWT",NA,"Cut-Start-Yield-(Wgt%)",4
+"56",56,"EYWT",NA,"Cut-End-Yield-(Wgt%)",5
+"57",57,"CCR ","CONRADSON C","Conradson-Carbon",158
+"58",58,"FLH ",NA,"Flash-Point-(API)",116
+"59",59,"BENZ",NA,"Benzene-Precursor-Index",113
+"60",60,"LHV ","NET HT VAL","Net-Heating-Value",115
+"61",61,"MW  ","MOLECULAR WT","Molecular-Weight",11
+"62",62,"AIP ",NA,"ASTM-Initial-Boiling-Point",41
+"63",63,"A10 ",NA,"ASTM-10%-Point",43
+"64",64,"A30 ",NA,"ASTM-30%-Point",45
+"65",65,"A50 ",NA,"ASTM-50%-Point",46
+"66",66,"A70 ",NA,"ASTM-70%-Point",47
+"67",67,"A90 ",NA,"ASTM-90%-Point",49
+"68",68,"AEP ",NA,"ASTM-End-Boiling-Pt",51
+"69",69,"V104","VIS104","Viscosity-@104-F-(-40-C)",141
+"70",70,"V068","VIS68","Viscosity-@-68-F-(-20-C)",138
+"71",71,"V158","VIS158","Viscosity-@158-F-(-70-C)",145
+"72",72,"NAPL","NAPHTHALENES","Naphthalenes",88
+"73",73,"WAX ","WAX","Wax",99
+"74",74,"CU  ","CU","Copper",169
+"75",75,"NA  ",NA,"Sodium",170
+"76",76,"PENT","PENTANE INS","Pentane-Insolubles",86
+"77",77,"SOFT","SOFT PT","Softening-Point",124
+"78",78,"BROM","BROMINE NO","Bromine-Number",84
+"79",79,"DUCT","DUCTILITY","Ductility-deg-F-resid",186
+"80",80,"OILS","OILS","Residue-Oils",172
+"81",81,"RESN","RESINS","Residue-Resins",173
+"82",82,"OLEF","OLEFINS","Olefins-Vol",89
+"83",83,"RI55","REFRACT I55","Refractive-Index-@-55deg-C",133
+"84",84,"RI67","REFRACT I67","Refractive-Index-@-67deg-C",134
+"85",85,"V060","VIS60","Viscosity-@-60-F-(15.5-C)",137
+"86",86,"V100","VIS100","Viscosity-@100-F-(-38-C)",140
+"87",87,"V140","VIS140","Viscosity-@140-F-(-60-C)",144
+"88",88,"V180","VIS180","Viscosity-@180-F-(-82-C)",146
+"89",89,"V200","VIS200","Viscosity-@200-F-(-93-C)",147
+"90",90,"V210","VIS210","Viscosity-@210-F-(-98-C)",148
+"91",91,"V375","VIS375","Viscosity-@375-F-(190-C)",153
+"92",92,"V425","VIS425","Viscosity-@425-F-(218-C)",154
+"93",93,"SOLD","SOLIDS","Resid-Solids-Number",110
+"94",94,"P140","PCALC","Viscosity--Poise-@-140F",155
+"95",95,"SLDC","SOLIDS CALC","Resid-Solids-Number---calculated",111
+"96",96,"F1LS","OCTF-1-PB-S","RON1-@.xx-g-PB/L-(with-SULF)",73
+"97",97,"F2LS","OCTF-2-PS-S","MON1-@.xx-g-PB/L-(with-SULF)",78
+"98",98,"RSNA","RESINS TYP A","Residue-Resins-Type-A",174
+"99",99,"RSNB","RESINS TYP B","Residue-Resins-Type-B",175
+"100",100,"RI20","REFRACT I20","Refractive-Index-@-20deg-C",132
+"101",101,"RI70","REFRACT I70","Refractive-Index-@-70deg-C",135
+"102",102,"COLR","COLOR","Color-Code",85
+"103",103,"CARB","CARBON","Carbon",18
+"104",104,"V300","VIS300","Viscosity-@300-F-(149-C)",151
+"105",105,"V325","VIS325","Viscosity-@325-F-(163-C)",152
+"106",106,"ASH ","ASH","Ash-content",112
+"107",107,"HG  ","HG","Mercury",164
+"108",108,"A05 ",NA,"ASTM-5%-Point",42
+"109",109,"A95 ",NA,"ASTM-95%-Point",50
+"110",110,"OGCL","ORGCHLORIDES","Chlorides---Organic",165
+"111",111,"V077","VIS077","Viscosity-@-77-F-(-25-C)",139
+"112",112,"H2SD","H2S DISOLVED","Total-H2S-dissolved",162
+"113",113,"H2SE","H2S EVOLVED","Total-H2S-evolved",163
+"114",114,"V130","VIS130","Viscosity-@130-F-(-54-C)",143
+"115",115,"FLA ",NA,"Flash-Point-(Chevron)",117
+"116",116,"E70 ",NA,"E70-(%Evap.-@-70-C)",58
+"117",117,"E100",NA,"E100-(%Evap.-@100-C)",60
+"118",118,"E180",NA,"E180-(%Evap.-@180-C)",62
+"119",119,"T20 ",NA,"VL%-TBP---20%",22
+"120",120,"T80 ",NA,"VL%-TBP---80%",26
+"121",121,"A20 ",NA,"ASTM-20%-Point",44
+"122",122,"A80 ",NA,"ASTM-80%-Point",48
+"123",123,"WIP ",NA,"WT%-TBP---Initial-Boiling-Pt",30
+"124",124,"W05 ",NA,"WT%-TBP---5%",31
+"125",125,"W10 ",NA,"WT%-TBP---10%",32
+"126",126,"W30 ",NA,"WT%-TBP---30%",33
+"127",127,"W50 ",NA,"WT%-TBP---50%",34
+"128",128,"W70 ",NA,"WT%-TBP---70%",35
+"129",129,"W90 ",NA,"WT%-TBP---90%",36
+"130",130,"W95 ",NA,"WT%-TBP---95%",37
+"131",131,"WEP ",NA,"WT%-TBP---End-Boiling-Pt",38
+"132",132,"MCRT","MCRT","MCRT-carbon-number",159
+"133",133,"AROI","AROMATICITY","Aromaticity-Index",95
+"134",134,"SAT ","HPLCSAT","HPLC---Saturates",187
+"135",135,"MOA ","HPLCMOA","HPLC---Mono-Aromatics",190
+"136",136,"DIA ","HPLCDIA","HPLC---Di-Aromatics",191
+"137",137,"POA ","HPLCPOA","HPLC---Poly-Aromatics",192
+"138",138,"POL ","HPLCPOL","HPLC---Polars",189
+"139",139,"ZINC","ZINC","Zinc",171
+"140",140,"DN15","DENSITY15","Density-@15-deg-C",9
+"141",141,"HCR ","HCRATIO","H/C-Ratio",12
+"142",142,"FLAM","FLASH","Flash-Point-(Measured)",118
+"143",143,"ASP ","HPLCASP","HPLC---Asphaltenes",188
+"144",144,"HARO","HPLCARO","HPLC---Aromatics-(Total)",193
+"145",145,"VI  ","VINDEX","Viscosity-Index",156
+"146",146,"OLEV",NA,"Olefins-Vol%-Unadjusted",121
+"147",147,"PARI","I-PARAFFINS","iso-Paraffins--Vol",91
+"148",148,"PARN","N-PARAFFINS","n-Paraffins-Vol",92
+"149",149,"E135",NA,"E135-(%Evap.-@135-C)",61
+"150",150,"PARC","PARAFFINSC","Paraffins/Converted-(Total)",100
+"151",151,"NAPC","NAPHTHENESC","Naphthenes/Converted",101
+"152",152,"AROC","AROMATICSC","Aromatics/Converted",102
+"153",153,"PAIC","I-PARAFFINSC","Paraffins-(Iso)-/Converted",103
+"154",154,"PANC","N-PARAFFINSC","Paraffins-(Normal)-/Converted",104
+"155",155,"PARO","PARAFFINSO","Paraffins-(Total)-Wt",105
+"156",156,"NAPO","NAPHTHENESO","Naphthenes-Wt",106
+"157",157,"AROO","AROMATICSO","Aromatics-Wt",107
+"158",158,"PAIO","I-PARAFFINSO","iso-Paraffins-Wt",108
+"159",159,"PANO","N-PARAFFINSO","n-Paraffins-Wt",109
+"160",160,"E340",NA,"E340-(%Evap.-@340-C)",65
+"161",161,"E350",NA,"E350-(%Evap.-@350-C)",67
+"162",162,"E360",NA,"E360-(%Evap.-@360-C)",68
+"163",163,"E370",NA,"E370-(%Evap.-@370-C)",69
+"164",164,"ASDA","HPLCASP_HDA","HPLC-Asphaltenes-(HDA)",164
+"165",165,"STDA","HPLCSAT_HDA","HPLC-Saturates-(HDA)",165
+"166",166,"MODA","HPLCMON_HDA","HPLC-Monoaromatics-(HDA)",166
+"167",167,"DIDA","HPLCDIA_HDA","HPLC-Diaromatics-(HDA)",167
+"168",168,"PLDA","HPLCPLY_HDA","HPLC-Polyaromatics-(HDA)",168
+"169",169,"PODA","HPLCPOL_HDA","HPLC-Polars-(HDA)",169
+"170",170,"R1AR","1RINGARO","HPLC-1-Ring-Aromatic-Core",170
+"171",171,"R2AR","2RINGARO","HPLC-2-Ring-Aromatic-Core",171
+"172",172,"R3AR","3RINGARO","HPLC-3-Ring-Aromatic-Core",172
+"173",173,"R4AR","4RINGARO","HPLC-4-Ring-Aromatic-Core",173
+"174",174,"POLA","POLARO","HPLC-Polars-Aromatic-Core",174
+"175",175,"E345",NA,"E345-(%Evap.-@345-C)",175
+"176",176,"CETN",NA,"Cetane-Index-(D4737)",176
+"177",177,"BBRP","BBRSLOPE","BBR-Slope-@--12C",177
+"178",178,"BBRN","BBRSTIFF","BBR-Stiffness-@--12C",178
+"179",179,"ODSR","ORIGDSR","Original-DSR-@-64C",179
+"180",180,"PDSR","PAVDSR","PAV-DSR-@-25C",180
+"181",181,"RTFO","RTFODSR","RTFO-DSR-@-64C",181
+"182",182,"DRVI",NA,"Driveability-Index",182
+"183",183,"E280",NA,"E280-(%Evap.-@280-C)",183
+"184",184,"E82",NA,"E82--(%Evap.-@-82-C)",184
+"185",185,"E300",NA,"E300-(%Evap.-@300-C)",185
+"186",186,"F1L2",NA,"RON2@.xx-g-PB/L-(no-SULF)",186
+"187",187,"F1S2",NA,"RON2@.xx-g-PB/L-(with-SULF)",187
+"188",188,"F2L2",NA,"MON2@.xx-g-PB/L-(no-SULF)",188
+"189",189,"F2S2",NA,"MON2@.xx-g-PB/L-(with-SULF)",189
+"190",190,"WABP",NA,"Weighted-Avg.-Boiling-Pt.",190
+"191",191,"MLBP",NA,"Molar-Avg.-Boiling-Pt.",191
+"192",192,"CABP",NA,"Cubic-Avg.-Boiling-Pt.",192
+"193",193,"MEAP",NA,"Mean-Avg.-Boiling-Pt.",193
+"194",194,"VABP",NA,"Volumetric-Avg.-Boiling-Pt.",194
+"195",195,"N2A",NA,"N-+-2A",195
+"196",196,"XYEQ","XYLENE_EQ","Xylene-Equivalent",196
+"197",197,"UVA1","UVARMONO","UV-Aromatics-Mono",197
+"198",198,"UVA2","UVARDI","UV-Aromatics-Di",198
+"199",199,"UVA3","UVARTRI","UV-Aromatics-Tri",199
+"200",200,"UVA4","UVARTETRA","UV-Aromatics-Tetra",200
+"201",201,"UVA5","UVARPENTA","UV-Aromatics-Penta",201
+"202",202,"UVA6","UVARHEXA","UV-Aromatics-Hexa",202
+"203",203,"UVA7","UVARHEPTA","UV-Aromatics-Hepta+",203
+"204",204,"UVAP","UVARPYRENES","UV-Aromatics-Pyrenes",204
+"205",205,"UVAT","UVARTOTAL","UV-Aromatics-Total",205
+"206",206,"V250","VIS250","Viscosity-@250-F-(121-C)",206
+"207",207,"C5IC","NC5INSOL_C","Carbon-in-N-C5-Insolubles",207
+"208",208,"C5IH","NC5INSOL_H","Hydrogen--in-N-C5-Insolubles",208
+"209",209,"C5IS","NC5INSOL_S","Sulfur--in-N-C5-Insolubles",209
+"210",210,"HSAT","HHTSAT","Total-Saturates-(HHT)",210
+"211",211,"HMAR","HHTMONOA","Mono-Aromatics-(HHT)",211
+"212",212,"HDIA","HHTDIA","Di-Aromatics-(HHT)",212
+"213",213,"HTRA","HHTTRIA","Tri+-Aromatics-(HHT)",213
+"214",214,"HNAC","HHTNAPC","Naphthenic-Carbon-(HHT)",214
+"215",215,"HARC","HHTAROC","Aromatic-Carbon-(HHT)",215
+"216",216,"VIN","VIND2270","Viscosity-Index-(D2270)",216
+"217",217,"ACC","AROMCC","Aromatic-Carbon-Content",217
+"218",218,"CCIB",NA,"Cetane-Index-(D4737-B)",218
+"219",219,"SG20","SPG204","Specific-Gravity-@20/4-deg-C",219
+"220",220,"OXYC","OXYGENC","Oxygen-Content",220
+"221",221,"VISK",NA,"Viscosity-K-Factor",221
+"222",222,"VSLC","VSLPCHEV","Viscosity-Slope-(Chevron)",222
+"223",223,"VSLA","VSLPASTM","Viscosity-Slope-(ASTM)",223
+"224",224,"UOPK",NA,"K-Factor-(UOP)",224
+"225",225,"A85 ",NA,"ASTM-85%-Point",225
+"226",226,"UVOL",NA,"Cut-Yield-(Vol%)-Unnormalized",226
+"227",227,"V176","VIS176","Viscosity-@176-F-(80-C)",227
+"228",228,"DN20","DENSITY20","Density-@20-deg-C",228
+"229",229,"FLAP","FLASHOC","Flash-Pt.-(Lab)---Open-Cup",229
+"230",230,"LUBE","LUBRICITY","Lubricity",230
+"231",231,"AS  ","ARSENIC","Arsenic",231
+"232",232,"CADM","CADMIUM","Cadmium",232
+"233",233,"PB  ","LEAD","Lead",233
+"234",234,"SALT","TOTAL SALT","Salt-Content",234
+"235",235,"CA","CALCIUM","Calcium",235
+"236",236,"MG","MAGNESIUM","Magnesium",236
+"237",237,"SE","SELENIUM","Selenium",237
+"238",238,"BSW ","BSW","Bottoms-Sediment-&-Water",238
+"239",239,"H2O ","WATER","Water",239
+"240",240,"SEDM","SEDIMENT","Sediment",240
+"241",241,"CALV","CALORIFIC V","Calorific-Value",241
+"242",242,"DIS","DISULFIDES","Disulfides",242
+"243",243,"ADIS","ALISULFIDE","Aliphatic-Sulfide",243
+"244",244,"EDIS","EPSULFIDE","Elem.-&-Poly-Sulfide",244
+"245",245,"GCTM",NA,"Gas-Chromatograph-Temp-Limit",245
+"246",246,"GCLV",NA,"Gas-Chromatograph-Yield",246
+"247",247,"HTIP","HGR_TIP","Initial-Boiling-Pt",247
+"248",248,"HTEP","HGR_TEP","End-Boiling-Pt",248
+"249",249,"GYLD",NA,"Cut-Gas-Yield",249
+"250",250,"FSOL","FSOLIDS","Filterable-Solids",250
+"251",251,"MOLE","MOLE","Cut-Yield-(Mole%)",251
+"252",252,"ACID","ACID","Acid--Distributed",252
+"253",253,"AL","AL ","Aluminium",252
+"254",254,"SB","SB","Antimony",254
+"255",255,"BA","BA","Barium",255
+"256",256,"BE ","BE ","Beryllium",256
+"257",257,"BO","BO","Boron",257
+"258",258,"CTOL","CTOL","Cetane-Tolerance",258
+"259",259,"CR","CR","Chromium",259
+"260",260,"CO","CO","Cobalt",260
+"261",261,"LI","LI","Lithium",261
+"262",262,"MN","MN","Manganese",262
+"263",263,"MO","MO","Molybdenum",263
+"264",264,"NEO","NEO","NeoPentane",264
+"265",265,"ODR","ODR","Odor",265
+"266",266,"PD ","PD","Palladium",266
+"267",267,"P","P","Phosphorus",267
+"268",268,"PL","PL","Platinum",268
+"269",269,"K","K","Potassium",269
+"270",270,"RE","RE","Rhenium",270
+"271",271,"RB","RB","Rubidium",271
+"272",272,"RU","RU","Ruthenium",272
+"273",273,"ASFC","AROMSFC","SFC-Aromatics",273
+"274",274,"SI","SI","Silicon",274
+"275",275,"AG","AG","Silver",275
+"276",276,"PSBO","PSBO","Solvent-Power",276
+"277",277,"RSBA","RSBA","Solvent-Requirement",277
+"278",278,"SR","SR","Strontium",278
+"279",279,"TL","TL","Thallium",279
+"280",280,"SN","SN","Tin",280
+"281",281,"TI","TI","Titanium",281
+"282",282,"W ","W ","Tungsten",282
+"283",283,"WXVM","WXNMR","Wax-NMR",283
+"284",284,"ZR","ZR","Zirconium",284
+"285",285,"CS","CS","Caesium",285
+"286",286,"VM20","VISM20","Viscosity-@--4-F-(--20-C)",286
+"287",287,"BNZ","BNZ","Benzene-Content",287
+"288",288,"V080","VIS080","Viscosity-@80-F-(-26.7-C)",288
+"289",289,"V045","VIS045","Viscosity-@45.5-F-(-7.5-C)",289
+"290",1001,"GV01",NA,"Ethane",1001
+"291",1002,"GV02",NA,"Propane",1002
+"292",1003,"GV03",NA,"Iso-Butane",1003
+"293",1004,"GV04",NA,"Normal-Butane",1004
+"294",1005,"GV05",NA,"Iso-Pentane",1005
+"295",1006,"GV06",NA,"Normal-Pentane",1006
+"296",1007,"GV07",NA,"Cyclopentane",1007
+"297",1008,"GV08",NA,"2-2-Dimethylbutane",1008
+"298",1009,"GV09",NA,"2-3-Dimethylbutane",1009
+"299",1010,"GV10",NA,"2-Methylpentane",1010
+"300",1011,"GV11",NA,"3-Methylpentane",1011
+"301",1012,"GV12",NA,"Iso-Hexane-(Total-C6-Isomers)",1012
+"302",1013,"GV13",NA,"Normal-Hexane",1013
+"303",1014,"GV14",NA,"Methylcyclopentane",1014
+"304",1015,"GV15",NA,"2-2-Dimethylpentane",1015
+"305",1016,"GV16",NA,"Iso-Heptane-(Total-C7-Isomers)",1016
+"306",1017,"GV17",NA,"C7-Cyclopentanes-(Total)",1017
+"307",1018,"GV18",NA,"Benzene",1018
+"308",1019,"GV19",NA,"2-4-Dimethylpentane",1019
+"309",1020,"GV20",NA,"Cyclohexane",1020
+"310",1021,"GV21",NA,"2-2-3-Trimethylbutane",1021
+"311",1022,"GV22",NA,"3-3-Dimethylpentane",1022
+"312",1023,"GV23",NA,"1-1-Dimethylcyclopentane",1023
+"313",1024,"GV24",NA,"2-3-Dimethylpentane",1024
+"314",1025,"GV25",NA,"2-Methylhexane",1025
+"315",1026,"GV26",NA,"1-TRANS-3-Dimethylcyclopentane",1026
+"316",1027,"GV27",NA,"1-CIS-3-Dimethylcyclopentane",1027
+"317",1028,"GV28",NA,"3-Methylhexane",1028
+"318",1029,"GV29",NA,"1-TRANS-2-Dimethylcyclopentane",1029
+"319",1030,"GV30",NA,"3-Ethylpentane",1030
+"320",1031,"GV31",NA,"Normal-Heptane",1031
+"321",1032,"GV32",NA,"1-CIS-2-Dimethylcyclopentane",1032
+"322",1033,"GV33",NA,"Methylcyclohexane",1033
+"323",1034,"GV34",NA,"Ethylcyclopentane",1034
+"324",1035,"GV35",NA,"Methylbenzene-(Toluene)",1035
+"325",1036,"GV36",NA,"Iso-Octane",1036
+"326",1037,"GV37",NA,"Methyl-Ethylcyclopentane",1037
+"327",1038,"GV38",NA,"Normal-Octane",1038
+"328",1039,"GV39",NA,"Dimethylcyclohexane",1039
+"329",1040,"GV40",NA,"Ethylbenzene",1040
+"330",1041,"GV41",NA,"Iso-Nonane",1041
+"331",1042,"GV42",NA,"1-4-Dimethylbenzene-(P-Xylene)",1042
+"332",1043,"GV43",NA,"1-3-Dimethylbenzene-(M-Xylene)",1043
+"333",1044,"GV44",NA,"Isobutylcyclopentane",1044
+"334",1045,"GV45",NA,"C8-Aromatics-(Total)",1045
+"335",1046,"GV46",NA,"1-2-Dimethylbenzene-(O-Xylene)",1046
+"336",1047,"GV47",NA,"Isopropylcyclohexane",1047
+"337",1048,"GV48",NA,"Normal-Nonane",1048
+"338",1049,"GV49",NA,"C9-Aromatics-(Total)",1049
+"339",1050,"GV50",NA,"Iso-Decane",1050
+"340",1051,"GV51",NA,"Ethylpropylcyclopentane",1051
+"341",1052,"GV52",NA,"Normal-Decane",1052
+"342",1053,"GV53",NA,"Isobutylcyclohexane",1053
+"343",1054,"GV54",NA,"C10-Aromatics-(Total)",1054
+"344",1055,"GV55",NA,"Iso-Undecane",1055
+"345",1056,"GV56",NA,"Normal-Undecane",1056
+"346",1057,"GV57",NA,"Iso-Dodecane",1057
+"347",1058,"GV58",NA,"C11-Cyclopentanes-(Total)",1058
+"348",1059,"GV59",NA,"C11-Cyclohexanes-(Total)",1059
+"349",1060,"GV60",NA,"Normal-Dodecane",1060
+"350",1061,"GV61",NA,"C12-Cyclopentanes-(Total)",1061
+"351",1062,"GV62",NA,"C12-Cyclohexanes-(Total)",1062
+"352",1063,"GV63",NA,"C11-Aromatics-(Total)",1063
+"353",1064,"GV64",NA,"C12-Aromatics-(Total)",1064
+"354",1401,"VS01",NA,"GC-Vol-Summary-1",1401
+"355",1402,"VS02",NA,"GC-Vol-Summary-2",1402
+"356",1403,"VS03",NA,"GC-Vol-Summary-3",1403
+"357",1404,"VS04",NA,"GC-Vol-Summary-4",1404
+"358",1405,"VS05",NA,"GC-Vol-Summary-5",1405
+"359",1406,"VS06",NA,"GC-Vol-Summary-6",1406
+"360",1407,"VS07",NA,"GC-Vol-Summary-7",1407
+"361",1408,"VS08",NA,"GC-Vol-Summary-8",1408
+"362",1409,"VS09",NA,"GC-Vol-Summary-9",1409
+"363",1501,"GW01",NA,"Ethane",1501
+"364",1502,"GW02",NA,"Propane",1502
+"365",1503,"GW03",NA,"Iso-Butane",1503
+"366",1504,"GW04",NA,"Normal-Butane",1504
+"367",1505,"GW05",NA,"Iso-Pentane",1505
+"368",1506,"GW06",NA,"Normal-Pentane",1506
+"369",1507,"GW07",NA,"Cyclopentane",1507
+"370",1508,"GW08",NA,"2-2-Dimethylbutane",1508
+"371",1509,"GW09",NA,"2-3-Dimethylbutane",1509
+"372",1510,"GW10",NA,"2-Methylpentane",1510
+"373",1511,"GW11",NA,"3-Methylpentane",1511
+"374",1512,"GW12",NA,"Iso-Hexane-(Total-C6-Isomers)",1512
+"375",1513,"GW13",NA,"Normal-Hexane",1513
+"376",1514,"GW14",NA,"Methylcyclopentane",1514
+"377",1515,"GW15",NA,"2-2-Dimethylpentane",1515
+"378",1516,"GW16",NA,"Iso-Heptane-(Total-C7-Isomers)",1516
+"379",1517,"GW17",NA,"C7-Cyclopentanes-(Total)",1517
+"380",1518,"GW18",NA,"Benzene",1518
+"381",1519,"GW19",NA,"2-4-Dimethylpentane",1519
+"382",1520,"GW20",NA,"Cyclohexane",1520
+"383",1521,"GW21",NA,"2-2-3-Trimethylbutane",1521
+"384",1522,"GW22",NA,"3-3-Dimethylpentane",1522
+"385",1523,"GW23",NA,"1-1-Dimethylcyclopentane",1523
+"386",1524,"GW24",NA,"2-3-Dimethylpentane",1524
+"387",1525,"GW25",NA,"2-Methylhexane",1525
+"388",1526,"GW26",NA,"1-TRANS-3-Dimethylcyclopentane",1526
+"389",1527,"GW27",NA,"1-CIS-3-Dimethylcyclopentane",1527
+"390",1528,"GW28",NA,"3-Methylhexane",1528
+"391",1529,"GW29",NA,"1-TRANS-2-Dimethylcyclopentane",1529
+"392",1530,"GW30",NA,"3-Ethylpentane",1530
+"393",1531,"GW31",NA,"Normal-Heptane",1531
+"394",1532,"GW32",NA,"1-CIS-2-Dimethylcyclopentane",1532
+"395",1533,"GW33",NA,"Methylcyclohexane",1533
+"396",1534,"GW34",NA,"Ethylcyclopentane",1534
+"397",1535,"GW35",NA,"Methylbenzene-(Toluene)",1535
+"398",1536,"GW36",NA,"Iso-Octane",1536
+"399",1537,"GW37",NA,"Methyl-Ethylcyclopentane",1537
+"400",1538,"GW38",NA,"Normal-Octane",1538
+"401",1539,"GW39",NA,"Dimethylcyclohexane",1539
+"402",1540,"GW40",NA,"Ethylbenzene",1540
+"403",1541,"GW41",NA,"Iso-Nonane",1541
+"404",1542,"GW42",NA,"1-4-Dimethylbenzene-(P-Xylene)",1542
+"405",1543,"GW43",NA,"1-3-Dimethylbenzene-(M-Xylene)",1543
+"406",1544,"GW44",NA,"Isobutylcyclopentane",1544
+"407",1545,"GW45",NA,"C8-Aromatics-(Total)",1545
+"408",1546,"GW46",NA,"1-2-Dimethylbenzene-(O-Xylene)",1546
+"409",1547,"GW47",NA,"Isopropylcyclohexane",1547
+"410",1548,"GW48",NA,"Normal-Nonane",1548
+"411",1549,"GW49",NA,"C9-Aromatics-(Total)",1549
+"412",1550,"GW50",NA,"Iso-Decane",1550
+"413",1551,"GW51",NA,"Ethylpropylcyclopentane",1551
+"414",1552,"GW52",NA,"Normal-Decane",1552
+"415",1553,"GW53",NA,"Isobutylcyclohexane",1553
+"416",1554,"GW54",NA,"C10-Aromatics-(Total)",1554
+"417",1555,"GW55",NA,"Iso-Undecane",1555
+"418",1556,"GW56",NA,"Normal-Undecane",1556
+"419",1557,"GW57",NA,"Iso-Dodecane",1557
+"420",1558,"GW58",NA,"C11-Cyclopentanes-(Total)",1558
+"421",1559,"GW59",NA,"C11-Cyclohexanes-(Total)",1559
+"422",1560,"GW60",NA,"Normal-Dodecane",1560
+"423",1561,"GW61",NA,"C12-Cyclopentanes-(Total)",1561
+"424",1562,"GW62",NA,"C12-Cyclohexanes-(Total)",1562
+"425",1563,"GW63",NA,"C11-Aromatics-(Total)",1563
+"426",1564,"GW64",NA,"C12-Aromatics-(Total)",1564
+"427",1901,"WS01",NA,"GC-Wt-Summary-1",1901
+"428",1902,"WS02",NA,"GC-Wt-Summary-2",1902
+"429",1903,"WS03",NA,"GC-Wt-Summary-3",1903
+"430",1904,"WS04",NA,"GC-Wt-Summary-4",1904
+"431",1905,"WS05",NA,"GC-Wt-Summary-5",1905
+"432",1906,"WS06",NA,"GC-Wt-Summary-6",1906
+"433",1907,"WS07",NA,"GC-Wt-Summary-7",1907
+"434",1908,"WS08",NA,"GC-Wt-Summary-8",1908
+"435",1909,"WS09",NA,"GC-Wt-Summary-9",1909
+"436",290,"AFIA","AROMFIA","Aromatics-(FIA)",290
+"437",291,"V119","VIS11_9C","Viscosity-@11.9C",291
+"438",292,"V185","VIS18_5C","Viscosity-@18.5C",292
+"439",293,"BMCI",NA,"Bureau-of-Mines-Index",293
+"440",294,"SLN","SOLNO","Solubility-No.",294
+"441",295,"ISN","INSNO","Insolubility-No.",295
+"442",296,"V086","VIS086","Viscosity-@-86deg-F-(30deg-C)",296
+"443",297,"OLFO","OLEFINSO","Olefins-Wt",297
+"444",298,"OFIA","OLEFINSFIA","Olefins-FIA",298
+"445",299,"SFIA","SATURATESFIA","Saturates-FIA",299
+"446",300,"SARA","SARA","SARA---Asphaltenes",300
+"447",301,"DOIL","DOIL","Oil-Solvent-Power",301
+"448",302,"DFLC","DFLC","Asphaltene-Solvent-Limit",302
+"449",303,"PO","PO","Peptizing-Power-(ASTM)",303
+"450",304,"FR","FRMAX","Max-Flocculation-Ratio-(ASTM)",304
+"451",305,"SARS","SARS","SARA---Saturates",305
+"452",306,"SARM","SARM","SARA---Aromatics",306
+"453",307,"SARR","SARR","SARA---Resins",307
+"454",308,"WATP","WATP","Wax-Appearance-Temperature",308
+"455",309,"IGCL","IGCL","Chlorides---Inorganic",309
+"456",310,"TOCL","TOCL","Chlorides---Total",310
+"457",311,"DIEN","DIEN","Diene-Value",311
+"458",312,"MTBE","MTBE","M.T.B.E",312
+"459",313,"ETBE","ETBE","E.T.B.E",313
+"460",314,"DIPE","DIPE","D.I.P.E",314
+"461",315,"TAME","TAME","T.A.M.E",315
+"462",316,"METH","METH","Methanol",316
+"463",317,"ETHO","ETHO","Ethanol",317
+"464",318,"NPRP","NPRP","n-Propanol",318
+"465",319,"NBUT","NBUT","n-Butanol",319
+"466",320,"MEG","MEG","M.E.G.",320
+"467",321,"DEG","DEG","D.E.G.",321
+"468",322,"TEG","TEG","T.E.G.",322
+"469",323,"MPG","MPG","M.P.G.",323
+"470",324,"CCOR","CCOR","Copper-Corrosion",324
+"471",325,"SACN","SACN","Strong-Acid-Number",325
+"472",326,"SBAS","SBAS","Total-Base-Number",326
+"473",327,"BFAC","BFAC","Barrel-Factor",327
+"474",328,"V50","V50","V50-Index",328
+"475",329,"V266","VIS266","Viscosity-@266-F-(130-C)",329
+"476",330,"T15",NA,"VL%-TBP---15%",330
+"477",331,"T25",NA,"VL%-TBP---25%",331
+"478",332,"T35",NA,"VL%-TBP---35%",332
+"479",333,"T40",NA,"VL%-TBP---40%",333
+"480",334,"T45",NA,"VL%-TBP---45%",334
+"481",335,"T55",NA,"VL%-TBP---55%",335
+"482",336,"T60",NA,"VL%-TBP---60%",336
+"483",337,"T65",NA,"VL%-TBP---65%",337
+"484",338,"T75",NA,"VL%-TBP---75%",338
+"485",339,"T85",NA,"VL%-TBP---85%",339
+"486",340,"W15",NA,"WT%-TBP---15%",340
+"487",341,"W20",NA,"WT%-TBP---20%",341
+"488",342,"W25",NA,"WT%-TBP---25%",342
+"489",343,"W35",NA,"WT%-TBP---35%",343
+"490",344,"W40",NA,"WT%-TBP---40%",344
+"491",345,"W45",NA,"WT%-TBP---45%",345
+"492",346,"W55",NA,"WT%-TBP---55%",346
+"493",347,"W60",NA,"WT%-TBP---60%",347
+"494",348,"W65",NA,"WT%-TBP---65%",348
+"495",349,"W75",NA,"WT%-TBP---75%",349
+"496",350,"W80",NA,"WT%-TBP---80%",350
+"497",351,"W85",NA,"WT%-TBP---85%",351
+"498",352,"WAXS","WAXS","Wax-(Shell)",352
+"499",353,"CPWX","CPWX","Wax-Congealing-Point",353
+"500",354,"RING","RING","Ring-Index",354
+"501",355,"V284","VIS284","Viscosity-@284-F-(140-C)",355
+"502",356,"POLO","POLO","Pour-Pt.-Lower",356
+"503",357,"WDT","WDT","Wax-Dissolution-Temperature",357
+"504",358,"VANK",NA,"Vanadium-+-Nickel-Total",358
+"505",359,"ABEL",NA,"Flash-Closed-Cup-(Abel)",359
+"506",360,"RI60",NA,"Refractive-Index-@60deg-C",360
+"507",361,"THPW",NA,"Thiophenes-Wt",361
+"508",362,"V248",NA,"Viscosity-@248deg-F-(120deg-C)",362
+"509",363,"V302",NA,"Viscosity-@302deg-F-(150deg-C)",363
